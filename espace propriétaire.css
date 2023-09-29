@@ -1,0 +1,31 @@
+header {
+    background-color: white;
+}
+
+.colorMenu{
+    background-color: #d3e9ee;
+    color: black;
+    border-color: #d3e9ee;
+  
+}
+
+.sizeMain{
+    background-color: #d3e9ee;
+    height: 100%;
+   border-radius: 20px;
+  
+}
+
+.alignLogo{
+    flex-direction: column;
+    align-items: center;
+}
+
+.alignPartenaires{
+    align-items: center;
+}
+
+.colMenu{
+    
+    flex-direction: column;
+}
