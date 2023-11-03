@@ -97,19 +97,19 @@ header {
 @media (max-width: 992px){
 
     .sizeCard1{
-        height: 20rem;
+        height: 21rem;
     }
 
     .sizeCard2{
-        height: 20rem;
+        height: 21rem;
     }
 
     .sizeCard3{
-        height: 20rem;
+        height: 12rem;
     }
 
     .sizeCard4{
-        height: 8rem;
+        height: 6rem;
     }
 
     .sizeCard5{
@@ -128,7 +128,7 @@ header {
     }
 
     .sizeCard3{
-        height: 12rem;
+        height: 14rem;
     }
 
     .sizeCard4{
