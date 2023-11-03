@@ -39,7 +39,15 @@ header {
     font-size:12px;
 }
 
-.sizeCard{
+.sizeCard1{
+    height: 20rem;
+}
+
+.sizeCard2{
+    height: 20rem;
+}
+
+.sizeCard3{
     height: 20rem;
 }
 
@@ -51,10 +59,61 @@ header {
     height: 5rem;
 }
 
-.sizeCard2{
-    height: 10rem;
+.sizeCard4{
+    height: 8rem;
+}
+
+.sizeCard5{
+    height: 8rem;
 }
 
 .imgDisplay{
     display:none
+}
+
+
+@media (max-width: 576px){
+
+    .sizeCard1{
+        height: 21rem;
+    }
+
+    .sizeCard2{
+        height: 17rem;
+    }
+
+    .sizeCard3{
+        height: 14rem;
+    }
+
+    .sizeCard4{
+        height: 8rem;
+    }
+
+    .sizeCard5{
+        height: 5rem;
+    }
+}
+
+@media (max-width: 300px){
+
+    .sizeCard1{
+        height: 25rem;
+    }
+
+    .sizeCard2{
+        height: 20rem;
+    }
+
+    .sizeCard3{
+        height: 16rem;
+    }
+
+    .sizeCard4{
+        height: 10rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
 }
