@@ -40,15 +40,15 @@ header {
 }
 
 .sizeCard1{
-    height: 20rem;
+    height: 16rem;
 }
 
 .sizeCard2{
-    height: 20rem;
+    height: 16em;
 }
 
 .sizeCard3{
-    height: 20rem;
+    height: 16rem;
 }
 
 .sizeEntetecard{
@@ -60,30 +60,52 @@ header {
 }
 
 .sizeCard4{
-    height: 8rem;
+    height: 6rem;
 }
 
 .sizeCard5{
-    height: 8rem;
+    height: 6rem;
 }
 
 .imgDisplay{
     display:none
 }
 
-
-@media (max-width: 576px){
+@media (max-width: 1400px){
 
     .sizeCard1{
-        height: 21rem;
+        height: 22rem;
     }
 
     .sizeCard2{
-        height: 17rem;
+        height: 22rem;
     }
 
     .sizeCard3{
-        height: 14rem;
+        height: 22rem;
+    }
+
+    .sizeCard4{
+        height: 7rem;
+    }
+
+    .sizeCard5{
+        height: 7rem;
+    }
+}
+
+@media (max-width: 992px){
+
+    .sizeCard1{
+        height: 20rem;
+    }
+
+    .sizeCard2{
+        height: 20rem;
+    }
+
+    .sizeCard3{
+        height: 20rem;
     }
 
     .sizeCard4{
@@ -91,11 +113,151 @@ header {
     }
 
     .sizeCard5{
-        height: 5rem;
+        height: 4rem;
     }
 }
 
-@media (max-width: 300px){
+@media (max-width: 820px){
+
+    .sizeCard1{
+        height: 19rem;
+    }
+
+    .sizeCard2{
+        height: 19rem;
+    }
+
+    .sizeCard3{
+        height: 12rem;
+    }
+
+    .sizeCard4{
+        height: 6rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+
+@media (max-width: 767px){
+
+    .sizeCard1{
+        height: 12rem;
+    }
+
+    .sizeCard2{
+        height: 12rem;
+    }
+
+    .sizeCard3{
+        height: 9rem;
+    }
+
+    .sizeCard4{
+        height: 6rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+@media (max-width: 727px){
+
+    .sizeCard1{
+        height: 13rem;
+    }
+
+    .sizeCard2{
+        height: 14rem;
+    }
+
+    .sizeCard3{
+        height: 10rem;
+    }
+
+    .sizeCard4{
+        height: 6rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+
+@media (max-width: 576px){
+
+    .sizeCard1{
+        height: 14rem;
+    }
+
+    .sizeCard2{
+        height: 13rem;
+    }
+
+    .sizeCard3{
+        height: 11rem;
+    }
+
+    .sizeCard4{
+        height: 6rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+@media (max-width: 415px){
+
+    .sizeCard1{
+        height: 17rem;
+    }
+
+    .sizeCard2{
+        height: 15rem;
+    }
+
+    .sizeCard3{
+        height: 12rem;
+    }
+
+    .sizeCard4{
+        height: 7rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+@media (max-width: 385px){
+
+    .sizeCard1{
+        height: 20rem;
+    }
+
+    .sizeCard2{
+        height: 16rem;
+    }
+
+    .sizeCard3{
+        height: 13rem;
+    }
+
+    .sizeCard4{
+        height: 8rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+@media (max-width: 325px){
 
     .sizeCard1{
         height: 25rem;
