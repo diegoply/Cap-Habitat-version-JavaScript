@@ -78,15 +78,38 @@ header {
 @media (max-width: 1400px){
 
     .sizeCard1{
-        height: 22rem;
+        height: 18rem;
     }
 
     .sizeCard2{
-        height: 22rem;
+        height: 18rem;
     }
 
     .sizeCard3{
-        height: 22rem;
+        height: 18rem;
+    }
+
+    .sizeCard4{
+        height: 7rem;
+    }
+
+    .sizeCard5{
+        height: 7rem;
+    }
+}
+
+@media (max-width: 1200px){
+
+    .sizeCard1{
+        height: 20rem;
+    }
+
+    .sizeCard2{
+        height: 20rem;
+    }
+
+    .sizeCard3{
+        height: 20rem;
     }
 
     .sizeCard4{
@@ -124,15 +147,15 @@ header {
 @media (max-width: 820px){
 
     .sizeCard1{
-        height: 19rem;
+        height: 20rem;
     }
 
     .sizeCard2{
-        height: 19rem;
+        height: 20rem;
     }
 
     .sizeCard3{
-        height: 14rem;
+        height: 12rem;
     }
 
     .sizeCard4{
@@ -148,7 +171,30 @@ header {
 @media (max-width: 767px){
 
     .sizeCard1{
-        height: 12rem;
+        height: 13rem;
+    }
+
+    .sizeCard2{
+        height: 11rem;
+    }
+
+    .sizeCard3{
+        height: 8rem;
+    }
+
+    .sizeCard4{
+        height: 5rem;
+    }
+
+    .sizeCard5{
+        height: 2rem;
+    }
+}
+
+@media (max-width: 727px){
+
+    .sizeCard1{
+        height: 13rem;
     }
 
     .sizeCard2{
@@ -168,14 +214,15 @@ header {
     }
 }
 
-@media (max-width: 727px){
+
+@media (max-width: 576px){
 
     .sizeCard1{
         height: 13rem;
     }
 
     .sizeCard2{
-        height: 14rem;
+        height: 13rem;
     }
 
     .sizeCard3{
@@ -191,15 +238,14 @@ header {
     }
 }
 
-
-@media (max-width: 576px){
+@media (max-width: 415px){
 
     .sizeCard1{
-        height: 14rem;
+        height: 15rem;
     }
 
     .sizeCard2{
-        height: 13rem;
+        height: 14rem;
     }
 
     .sizeCard3{
@@ -215,10 +261,10 @@ header {
     }
 }
 
-@media (max-width: 415px){
+@media (max-width: 392px){
 
     .sizeCard1{
-        height: 17rem;
+        height: 18rem;
     }
 
     .sizeCard2{
@@ -226,30 +272,7 @@ header {
     }
 
     .sizeCard3{
-        height: 12rem;
-    }
-
-    .sizeCard4{
-        height: 7rem;
-    }
-
-    .sizeCard5{
-        height: 3rem;
-    }
-}
-
-@media (max-width: 385px){
-
-    .sizeCard1{
-        height: 20rem;
-    }
-
-    .sizeCard2{
-        height: 16rem;
-    }
-
-    .sizeCard3{
-        height: 13rem;
+        height: 11rem;
     }
 
     .sizeCard4{
@@ -261,14 +284,37 @@ header {
     }
 }
 
-@media (max-width: 325px){
+@media (max-width: 366px){
 
     .sizeCard1{
-        height: 25rem;
+        height: 21rem;
     }
 
     .sizeCard2{
-        height: 20rem;
+        height: 18rem;
+    }
+
+    .sizeCard3{
+        height: 14rem;
+    }
+
+    .sizeCard4{
+        height: 8rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+@media (max-width: 282px){
+
+    .sizeCard1{
+        height: 26rem;
+    }
+
+    .sizeCard2{
+        height: 22rem;
     }
 
     .sizeCard3{
@@ -276,7 +322,30 @@ header {
     }
 
     .sizeCard4{
-        height: 10rem;
+        height: 8rem;
+    }
+
+    .sizeCard5{
+        height: 3rem;
+    }
+}
+
+@media (max-width: 253px){
+
+    .sizeCard1{
+        height: 28rem;
+    }
+
+    .sizeCard2{
+        height: 24rem;
+    }
+
+    .sizeCard3{
+        height: 20rem;
+    }
+
+    .sizeCard4{
+        height: 12rem;
     }
 
     .sizeCard5{
